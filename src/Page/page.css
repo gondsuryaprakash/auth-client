@@ -1,0 +1,10 @@
+.container {
+   display: flexbox;
+}
+
+.mr-tp {
+    margin-top: 20px;
+}
+.pg-text {
+    text-align: center;
+}
